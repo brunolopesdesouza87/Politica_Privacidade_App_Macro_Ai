@@ -1,0 +1,6 @@
+{
+  "name": "Macro AI - Política de Privacidade",
+  "description": "Landing page profissional e interativa da política de privacidade do aplicativo Macro AI, em conformidade com as diretrizes do Google AdSense, LGPD e GDPR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
